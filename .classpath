@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WEB-INF/classes"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="H:/Java Software jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="H:/Java Software jar/spring-security-config-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/Java Software jar/spring-security-core-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/Java Software jar/spring-security-web-4.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="H:/Java Software jar/spring-web-servlet.jar"/>
+	<classpathentry kind="lib" path="H:/Java Software jar/jstl-standard.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
